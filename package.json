@@ -7,7 +7,7 @@
   "author": "Mayank Sharma",
   "license": "MIT",
   "dependencies": {
-    "axios": "^1.6.3",
+    "axios": "^1.6.4",
     "html-tag-js": "^1.1.22",
     "jszip": "^3.10.1",
     "postcss": "^8.5.10",
